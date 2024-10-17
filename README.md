@@ -1,4 +1,5 @@
 evvc e-Auto Auswertung.
+pro Monat, Jahr und pro Fahrzeug
 Export der Gesamt Ladevorgaenge csv Datei (session.csv) in evcc.
 Software und Infomationen unter https://evcc.io/
 diese evcc-excel.xlsx nutzen und 
