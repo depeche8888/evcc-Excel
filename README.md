@@ -1,5 +1,5 @@
 evvc e-Auto Auswertung.
-Export der gesamt csv Datei (session.csv) in evcc.
+Export der Gesamt LAdevrogaenge csv Datei (session.csv) in evcc.
 Software und Infomationen unter https://evcc.io/
 diese evcc-excel.xlsx nutzen und 
 Pfad in Excel unter Daten - Abfragen und Verbindungen zur session.csv angeben.
